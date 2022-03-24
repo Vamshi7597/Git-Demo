@@ -1,4 +1,2 @@
 # Git-Demo
-qwertyuiop
-asdfghjkl
-zxcv
+Demo to clone the file into local system.
